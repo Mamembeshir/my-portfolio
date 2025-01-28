@@ -11,7 +11,7 @@ import ResumeDownload from "@/components/resume-download"
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex justify-center items-center ">
+    <main className="min-h-screen px-3 flex justify-center items-center ">
       <div>
       <Header />
       <Hero />
