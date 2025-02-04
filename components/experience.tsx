@@ -29,7 +29,7 @@ const experiences = [
   {
     title: "Front-end Developer",
     company: "PamiFactura",
-    date: "11/2024 - Present",
+    date: "9/2024 - 1/2025",
     location: "USA (Upwork)",
     description:
       "Designed and developed responsive interfaces for their invoicing platform, ensuring optimal performance and seamless user experiences.",
