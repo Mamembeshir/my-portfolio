@@ -5,7 +5,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company: "Adnan Business Group",
-    date: "02/2019 - 11/2024",
+    date: "06/2022 - 11/2024",
     location: "Addis Ababa, Ethiopia",
     description: "Developed and maintained web applications using various technologies.",
     technologies: ["React", "Next.js", "laravel", "MySQL","redux","redux saga","tailwindcss","material-ui","docker","git",],
