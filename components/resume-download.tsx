@@ -18,7 +18,7 @@ export default function ResumeDownload() {
           Get a detailed overview of my skills, experience, and education.
         </p>
         <Button asChild>
-          <a href="/Muhammed-Abdulaziz-resume.pdf" download>
+          <a href="/Muhammed_resume.pdf" download>
             Download Resume <Download className="ml-2 h-4 w-4" />
           </a>
         </Button>
