@@ -35,6 +35,14 @@ const experiences = [
       "Designed and developed responsive interfaces for their invoicing platform, ensuring optimal performance and seamless user experiences.",
     technologies: ["React", "TypeScript", "RESTful APIs","Next","antd","redux"],
   },
+    {
+    title: "Full Stack Developer",
+    company: "BrainBite",
+    date: "06/2022 - 11/2024",
+    location: "Addis Ababa, Ethiopia",
+    description: "Developed and maintained web applications using various technologies.",
+    technologies: ["Vue", "Nuxt.js", "Supabase","pinia","tailwindcss","Tairo-ui","docker","git",],
+  },
 ];
 
 
