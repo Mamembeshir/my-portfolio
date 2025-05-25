@@ -38,7 +38,7 @@ const experiences = [
     {
     title: "Full Stack Developer",
     company: "BrainBite",
-    date: "06/2022 - 11/2024",
+    date: "1/2025 - 5/2024",
     location: "Addis Ababa, Ethiopia",
     description: "Developed and maintained web applications using various technologies.",
     technologies: ["Vue", "Nuxt.js", "Supabase","pinia","tailwindcss","Tairo-ui","docker","git",],
